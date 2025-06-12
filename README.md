@@ -9,7 +9,7 @@
   
 3. **Search by Caption**: Users can search for images using natural language queries. The application retrieves images whose captions match the query.
 
-![Screenshot 2024-06-09 221845](https://github.com/Mihaillo29/Photo-Semantic-Finder-Google-photos-replica/assets/117961472/1b831dfc-6a16-43cb-b292-f9a3d90865ff)
+![Screenshot 2024-06-09 221845](https://github.com/Sidra51/Photo-Semantic-Finder-Google-photos-replica/assets/117961472/1b831dfc-6a16-43cb-b292-f9a3d90865ff)
 
 <hr>
 
@@ -19,16 +19,17 @@
   
 - **Streamlit Web Application**: The frontend of the application is built using Streamlit, providing an intuitive user interface for uploading images and querying them using natural language.
   
-- [x] Uploading and Preview <details> <summary>Preview image </summary>![Screenshot 2024-06-09 210626](https://github.com/Mihaillo29/Photo-Semantic-Finder-/assets/117961472/0ebc7906-8454-4b70-b018-d069bb1c30f5)</details>
+- [x] Uploading and Preview <details> <summary>Preview image </summary>![Screenshot 2024-06-09 210626](https://github.com/Sidra51/Photo-Semantic-Finder-/assets/117961472/0ebc7906-8454-4b70-b018-d069bb1c30f5)</details>
 
-- [x] Grid Interface <details> <summary>Preview image </summary> ![Screenshot 2024-06-09 210724](https://github.com/Mihaillo29/Photo-Semantic-Finder-/assets/117961472/5e06890f-b6ab-42bc-9914-ce3939a3c0d5)</details>
+- [x] Grid Interface <details> <summary>Preview image </summary> ![Screenshot 2024-06-09 210724](https://github.com/Sidra
+- [ ] 51/Photo-Semantic-Finder-/assets/117961472/5e06890f-b6ab-42bc-9914-ce3939a3c0d5)</details>
 
 - [x] Searching using description <details> <summary>Preview image </summary>
-![Screenshot 2024-06-09 205943](https://github.com/Mihaillo29/Photo-Semantic-Finder-/assets/117961472/0489dfc1-e41d-40ed-9792-7171d68980eb)
- sol:![Screenshot 2024-06-09 210543](https://github.com/Mihaillo29/Photo-Semantic-Finder-/assets/117961472/52970d00-f1ef-44b5-bb67-174b2c9c3f3e)</details>
+![Screenshot 2024-06-09 205943](https://github.com/Sidra51/Photo-Semantic-Finder-/assets/117961472/0489dfc1-e41d-40ed-9792-7171d68980eb)
+ sol:![Screenshot 2024-06-09 210543](https://github.com/Sidra51/Photo-Semantic-Finder-/assets/117961472/52970d00-f1ef-44b5-bb67-174b2c9c3f3e)</details>
 
 - [x] others <details> <summary>Preview image </summary>  
-![Screenshot 2024-06-09 205540](https://github.com/Mihaillo29/Photo-Semantic-Finder-/assets/117961472/2c322e1b-9b2b-48c0-8a37-dabad0dd746b)</details>
+![Screenshot 2024-06-09 205540](https://github.com/Sidra51/Photo-Semantic-Finder-/assets/117961472/2c322e1b-9b2b-48c0-8a37-dabad0dd746b)</details>
 
 ## Technologies Used
 
